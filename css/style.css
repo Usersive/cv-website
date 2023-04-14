@@ -1,0 +1,23 @@
+body{
+    background-color: #a81968;
+}
+.container{
+    background-color: rgb(216, 198, 216);
+}
+.image{
+    border-radius: 100%;
+}
+.intro{
+    text-align: center;
+}
+.margin{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+hr{
+    width: 500px;
+}
+    
+h3:hover{
+    color: blue;
+}
